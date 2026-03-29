@@ -1,0 +1,4 @@
+  File "<string>", line 1
+    import re;from pathlib import Path;from newsapi import NewsApiClient;from newsapi.newsapi_exception import NewsAPIException;src=Path('/Users/satwik/Documents/CBDC_Sentiment_Project/automation.py').read_text();k=re.search(r'NewsApiClient\(api_key="([^"]+)"\)',src).group(1);api=NewsApiClient(api_key=k);try: r=api.get_everything(q='digital rupee',language='en',page_size=1,page=1,from_param='2026-02-26',to='2026-03-27');print(r)except Exception as e: print(type(e).__name__);print(str(e))
+                                                                                                                                                                                                                                                                                                                  ^^^
+SyntaxError: invalid syntax

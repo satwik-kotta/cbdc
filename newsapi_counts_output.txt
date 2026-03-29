@@ -1,0 +1,10 @@
+DATE_WINDOW=2026-02-26..2026-03-27
+COUNTRY|queries|extracted_raw|extracted_unique|queries_with_errors|queries_truncated
+India|4|0|0|4|0
+China|4|0|0|4|0
+Nigeria|6|0|0|6|0
+Jamaica|4|0|0|4|0
+Singapore|6|0|0|6|0
+Australia|6|0|0|6|0
+Japan|6|0|0|6|0
+USA|6|0|0|6|0

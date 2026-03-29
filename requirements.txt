@@ -1,0 +1,17 @@
+transformers
+torch
+newspaper3k
+nltk
+numpy
+requests
+beautifulsoup4
+pandas
+trafilatura
+newsapi-python
+sentence-transformers
+feedparser
+scikit-learn
+openai
+pillow
+pytesseract
+pypdf
